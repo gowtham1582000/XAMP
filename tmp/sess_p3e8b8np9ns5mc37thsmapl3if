@@ -1,0 +1,186 @@
+ PMA_token |s:32:"69502831356b2e3a6a33345a302a4269"; HMAC_secret |s:16:"#8.Ep>#?^C-P9{tw";browser_access_time|a:40:{s:7:"default";i:1738997692;s:36:"202bad4a-b954-b896-1276-c9507d6c536d";i:1734874397;s:36:"3fe0c145-964f-5cc9-217e-a843d82f8cd8";i:1734877053;s:36:"d5879218-5575-c3c1-6a01-6b26d1d9271e";i:1735055971;s:36:"927e8435-0991-9d0d-29b8-ff07dbed8d91";i:1735133985;s:36:"4cb98509-e2a9-b587-f2be-55eaa536b706";i:1735139257;s:36:"7406e571-d7ba-a133-7fac-84a01ccdcee5";i:1735404035;s:36:"c5636d3b-e667-569d-5575-e2e16c6465cf";i:1735468923;s:36:"01531d1d-249c-a354-d8ab-b8cf2993ebad";i:1735472293;s:36:"22cfcb35-d201-67b6-b5c1-799a8ba835e8";i:1735485251;s:36:"b83b081d-2421-5b64-8279-59a6d6e68325";i:1735491027;s:36:"57d7f8db-ab24-e829-25ff-bc56a41fe68d";i:1735490998;s:36:"6a429a49-8cee-8a10-f795-fa2ee6e896fc";i:1736009217;s:36:"e5a4b5ec-54f4-1371-7c36-537193f97911";i:1736012450;s:36:"51e2bce5-089a-b5f0-630c-35ac85e1806c";i:1736061267;s:36:"1b3895ec-018a-d167-333a-ab3bd052c68f";i:1736014907;s:36:"d7751ea7-dd32-1867-e6de-99c3f9f373f3";i:1736061601;s:36:"e85612de-c8f9-60ea-65c6-c9d2d992e4b4";i:1736092829;s:36:"595214f8-f9f3-dda4-b8d8-c7bfffd9f927";i:1736581136;s:36:"311fb786-38c1-fe3d-4034-2cae15378ac8";i:1736593643;s:36:"38034b9c-87c1-58ce-c36d-919609cd586b";i:1736602055;s:36:"8902b41c-a8a3-f641-1ee4-380896b19348";i:1736605804;s:36:"690643a8-bca0-a8a7-2125-00a7c12ceb5b";i:1736656924;s:36:"59ad7aa0-60f0-c670-28a0-7624eac0cf45";i:1736666485;s:36:"ba2ee6f3-017d-5bf0-c5fe-5d2da052737c";i:1736690598;s:36:"309c9fdd-fa2b-c715-4ac4-ed9c8cc687c8";i:1736875119;s:36:"6cfa3fcc-88d6-cdba-3e60-b3bb4153426d";i:1737203223;s:36:"53494708-72b1-4c8e-989a-6b519235e434";i:1737213730;s:36:"3407ad66-7f5b-3594-107a-9832d41da783";i:1737300917;s:36:"b71280ff-ca67-6119-fcee-3a429df2ede1";i:1737795042;s:36:"ea41228f-a444-cda8-015b-b209e38b9be3";i:1737815058;s:36:"55301728-7f21-0a91-a476-6c93d21d66b5";i:1737904890;s:36:"a60d1ebd-6059-36fe-dcdb-a8de16f7dbf6";i:1738419213;s:36:"5809ddf3-b4ed-7ce6-a111-374cc86085fc";i:1738422802;s:36:"40e7b06d-343a-0594-4627-bbae0be6d9f0";i:1738427378;s:36:"956067fe-3253-1f62-54bc-f50f62aaa72b";i:1738506696;s:36:"7f850997-a2c8-2389-af78-88809b6483eb";i:1738509077;s:36:"af131325-e15d-2181-8d2f-b81c01ea1c00";i:1738512054;s:36:"8234d371-19d7-7c56-3fe2-94b74e261b5f";i:1738512206;s:36:"0bdfd93c-166e-aa5a-3a48-75c3fdb8db5e";i:1738947171;}relation|a:1:{i:1;a:41:{s:7:"version";s:5:"5.2.1";s:4:"user";N;s:2:"db";N;s:8:"bookmark";N;s:15:"central_columns";N;s:11:"column_info";N;s:17:"designer_settings";N;s:16:"export_templates";N;s:8:"favorite";N;s:7:"history";N;s:16:"navigationhiding";N;s:9:"pdf_pages";N;s:6:"recent";N;s:8:"relation";N;s:13:"savedsearches";N;s:12:"table_coords";N;s:10:"table_info";N;s:13:"table_uiprefs";N;s:8:"tracking";N;s:10:"userconfig";N;s:10:"usergroups";N;s:5:"users";N;s:12:"bookmarkwork";b:0;s:8:"mimework";b:0;s:18:"centralcolumnswork";b:0;s:8:"commwork";b:0;s:9:"menuswork";b:0;s:20:"designersettingswork";b:0;s:11:"displaywork";b:0;s:19:"exporttemplateswork";b:0;s:12:"favoritework";b:0;s:7:"navwork";b:0;s:7:"pdfwork";b:0;s:10:"recentwork";b:0;s:7:"relwork";b:0;s:17:"savedsearcheswork";b:0;s:11:"historywork";b:0;s:12:"trackingwork";b:0;s:11:"uiprefswork";b:0;s:14:"userconfigwork";b:0;s:8:"allworks";b:0;}}tmpval|a:16:{s:14:"favoriteTables";a:1:{i:1;a:0:{}}s:12:"recentTables";a:1:{i:1;a:6:{i:0;a:2:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";}i:1;a:2:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";}i:2;a:2:{s:2:"db";s:4:"bfdb";s:5:"table";s:16:"category_details";}i:3;a:2:{s:2:"db";s:4:"bfdb";s:5:"table";s:12:"cart_details";}i:4;a:2:{s:2:"db";s:4:"bfdb";s:5:"table";s:5:"users";}i:5;a:2:{s:2:"db";s:4:"bfdb";s:5:"table";s:13:"cart_details1";}}}s:13:"table_uiprefs";a:1:{i:1;a:1:{s:4:"bfdb";a:6:{s:5:"users";a:0:{}s:12:"cart_details";a:1:{s:10:"sorted_col";s:16:"`product_id` ASC";}s:16:"category_details";a:1:{s:10:"sorted_col";s:17:"`CAT_HEXCODE` ASC";}s:13:"cart_details1";a:0:{}s:19:"userbilling_details";a:0:{}s:20:"shippingprod_details";a:0:{}}}}s:5:"query";a:10:{s:32:"d290e9074c6b61d0aef73e28e3acbf8b";a:8:{s:3:"sql";s:3224:"CREATE PROCEDURE InsertUserBillingDetails(
+    IN p_user_id INT,
+    IN p_first_name VARCHAR(255),
+    IN p_last_name VARCHAR(255),
+    IN p_address_1 VARCHAR(255),
+    IN p_address_2 VARCHAR(255),
+    IN p_city VARCHAR(255),
+    IN p_state VARCHAR(255),
+    IN p_postcode VARCHAR(50),
+    IN p_phone VARCHAR(50),
+    IN p_email VARCHAR(255),
+    IN p_order_notes TEXT,
+    IN p_country VARCHAR(255),
+    IN p_shipping_first_name VARCHAR(255),
+    IN p_shipping_last_name VARCHAR(255),
+    IN p_shipping_address_1 VARCHAR(255),
+    IN p_shipping_address_2 VARCHAR(255),
+    IN p_shipping_city VARCHAR(255),
+    IN p_shipping_state VARCHAR(255),
+    IN p_shipping_postcode VARCHAR(50),
+    IN p_shipping_phone VARCHAR(50),
+    IN p_shipping_email VARCHAR(255),
+    IN p_shipping_country VARCHAR(255),
+    IN p_default_address CHAR(1),
+    IN p_mail_ship_address CHAR(1),
+    IN p_order_items JSON -- Order items in JSON format
+)
+BEGIN
+    -- Declare variables at the start
+    DECLARE i INT DEFAULT 0;
+    DECLARE items_length INT;
+    DECLARE usrBillDetId INT;
+	DECLARE catid INT;
+    -- Insert user billing details
+    INSERT INTO userbilling_details 
+    (user_id, first_name, last_name, address_1, address_2, city, state, postcode, phone, email, order_notes, country, 
+     shipping_first_name, shipping_last_name, shipping_address_1, shipping_address_2, shipping_city, shipping_state, shipping_postcode, shipping_phone, shipping_email, shipping_country, defaultAddress, MailShipAddress) 
+    VALUES 
+    (p_user_id, p_first_name, p_last_name, p_address_1, p_address_2, p_city, p_state, p_postcode, p_phone, p_email, p_order_notes, p_country, 
+     p_shipping_first_name, p_shipping_last_name, p_shipping_address_1, p_shipping_address_2, p_shipping_city, p_shipping_state, p_shipping_postcode, p_shipping_phone, p_shipping_email, p_shipping_country, p_default_address, p_mail_ship_address);
+
+    -- Get the last inserted userbillingdetails id
+    SET usrBillDetId = LAST_INSERT_ID();
+
+    -- Get the length of the order_items JSON array
+    SET items_length = JSON_LENGTH(p_order_items);
+
+    -- Loop through order_items and insert them into shippingprod_details
+    WHILE i < items_length DO
+    	set catid = (select cat_catid from category_details where cat_name= JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[',i,'].name'))))
+
+       	INSERT INTO shippingprod_details 
+            (cat_id,prd_usrbilldetId, prd_name, prd_size, prd_color, prd_quantity, prd_rate, prd_imgLoc)
+            VALUES (catid,
+                usrBillDetId, 
+                JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].name'))),
+                JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].size'))),
+                JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].color'))),
+                JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].quantity'))),
+                JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].price'))),
+                JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].image')))
+            );
+
+
+        -- Increment the counter
+        SET i = i + 1;
+    END WHILE;
+END;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"de8d4605fc37b26b3ed2ce74218bc7cf";a:8:{s:3:"sql";s:3383:"CREATE PROCEDURE InsertUserBillingDetails(
+    IN p_user_id INT,
+    IN p_first_name VARCHAR(255),
+    IN p_last_name VARCHAR(255),
+    IN p_address_1 VARCHAR(255),
+    IN p_address_2 VARCHAR(255),
+    IN p_city VARCHAR(255),
+    IN p_state VARCHAR(255),
+    IN p_postcode VARCHAR(50),
+    IN p_phone VARCHAR(50),
+    IN p_email VARCHAR(255),
+    IN p_order_notes TEXT,
+    IN p_country VARCHAR(255),
+    IN p_shipping_first_name VARCHAR(255),
+    IN p_shipping_last_name VARCHAR(255),
+    IN p_shipping_address_1 VARCHAR(255),
+    IN p_shipping_address_2 VARCHAR(255),
+    IN p_shipping_city VARCHAR(255),
+    IN p_shipping_state VARCHAR(255),
+    IN p_shipping_postcode VARCHAR(50),
+    IN p_shipping_phone VARCHAR(50),
+    IN p_shipping_email VARCHAR(255),
+    IN p_shipping_country VARCHAR(255),
+    IN p_default_address CHAR(1),
+    IN p_mail_ship_address CHAR(1),
+    IN p_order_items JSON -- Order items in JSON format
+)
+BEGIN
+    -- Declare variables at the start
+    DECLARE i INT DEFAULT 0;
+    DECLARE items_length INT;
+    DECLARE usrBillDetId INT;
+    DECLARE catid INT;
+
+    -- Insert user billing details
+    INSERT INTO userbilling_details 
+    (user_id, first_name, last_name, address_1, address_2, city, state, postcode, phone, email, order_notes, country, 
+     shipping_first_name, shipping_last_name, shipping_address_1, shipping_address_2, shipping_city, shipping_state, shipping_postcode, shipping_phone, shipping_email, shipping_country, defaultAddress, MailShipAddress) 
+    VALUES 
+    (p_user_id, p_first_name, p_last_name, p_address_1, p_address_2, p_city, p_state, p_postcode, p_phone, p_email, p_order_notes, p_country, 
+     p_shipping_first_name, p_shipping_last_name, p_shipping_address_1, p_shipping_address_2, p_shipping_city, p_shipping_state, p_shipping_postcode, p_shipping_phone, p_shipping_email, p_shipping_country, p_default_address, p_mail_ship_address);
+
+    -- Get the last inserted userbillingdetails id
+    SET usrBillDetId = LAST_INSERT_ID();
+
+    -- Get the length of the order_items JSON array
+    SET items_length = JSON_LENGTH(p_order_items);
+
+    -- Loop through order_items and insert them into shippingprod_details
+    WHILE i < items_length DO
+        -- Fetch category id based on product name
+        SET catid = (SELECT cat_catid 
+                     FROM category_details 
+                     WHERE cat_name = JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].name'))));
+
+        -- Insert product details into shippingprod_details
+        INSERT INTO shippingprod_details 
+            (cat_id, prd_usrbilldetId, prd_name, prd_size, prd_color, prd_quantity, prd_rate, prd_imgLoc)
+        VALUES 
+            (catid,
+             usrBillDetId, 
+             JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].name'))),
+             JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].size'))),
+             JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].color'))),
+             JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].quantity'))),
+             JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].price'))),
+             JSON_UNQUOTE(JSON_EXTRACT(p_order_items, CONCAT('$[', i, '].image')))
+            );
+
+        -- Increment the counter
+        SET i = i + 1;
+    END WHILE;
+END;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"ccaabb9b3c431f04be939c55a57a9c95";a:8:{s:3:"sql";s:134:"SELECT GROUP_CONCAT(sp.prd_id SEPARATOR ', ')
+        FROM shippingprod_details sp
+        WHERE sp.prd_usrbilldetId = usrBillDetId;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"97430cf4e7ed0bd89d6dcf0d24bbf58c";a:8:{s:3:"sql";s:124:"SELECT GROUP_CONCAT(sp.prd_id SEPARATOR ', ')
+        FROM shippingprod_details sp
+        WHERE sp.prd_usrbilldetId = 10;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"78b9c0e878da67ac660808c33681403a";a:8:{s:3:"sql";s:34:"select * from userbilling_details;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"fd995c875ae32951296c91d93074f43d";a:8:{s:3:"sql";s:224:"UPDATE userbilling_details sd
+    SET sd.OrderDetails_id = (
+        SELECT GROUP_CONCAT(sp.prd_id SEPARATOR ', ')
+        FROM shippingprod_details sp
+        WHERE sp.prd_usrbilldetId = 11
+    )
+    WHERE sd.id = 11;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"3dbf83159fb0385d1fdd1a7546dec9d0";a:8:{s:3:"sql";s:124:"SELECT GROUP_CONCAT(sp.prd_id SEPARATOR ', ')
+        FROM shippingprod_details sp
+        WHERE sp.prd_usrbilldetId = 11;";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"fb4825e1aca85cfba19a72270975d924";a:8:{s:3:"sql";s:60:"SELECT * FROM `category_details` ORDER BY `CAT_HEXCODE` ASC ";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"89c4340f96ad1da5837f384f12caa39c";a:8:{s:3:"sql";s:35:"SELECT * FROM `userbilling_details`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"1c538040c4b74877dbb564ddc22b7e16";a:8:{s:3:"sql";s:36:"SELECT * FROM `shippingprod_details`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";i:0;s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:4:"bfdb";s:20:"possible_as_geometry";b:1;}two_factor_check|b:1;cache|a:3:{s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1738515272;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1447170388;s:9:"userprefs";a:1:{s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}}}s:13:"server_1_root";a:14:{s:17:"is_create_db_priv";b:1;s:14:"is_reload_priv";b:1;s:12:"db_to_create";s:0:"";s:30:"dbs_where_create_table_allowed";a:1:{i:0;s:1:"*";}s:11:"dbs_to_test";b:0;s:9:"proc_priv";b:1;s:10:"table_priv";b:1;s:8:"col_priv";b:1;s:7:"db_priv";b:1;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:9:"Databases";s:3:"sql";s:3:"SQL";s:6:"status";s:6:"Status";s:6:"rights";s:5:"Users";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:8:"settings";s:8:"Settings";s:6:"binlog";s:10:"Binary log";s:11:"replication";s:11:"Replication";s:4:"vars";s:9:"Variables";s:7:"charset";s:8:"Charsets";s:7:"plugins";s:7:"Plugins";s:6:"engine";s:7:"Engines";}s:14:"menu-levels-db";a:14:{s:9:"structure";s:9:"Structure";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"Search";s:5:"query";s:5:"Query";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:9:"operation";s:10:"Operations";s:10:"privileges";s:10:"Privileges";s:8:"routines";s:8:"Routines";s:6:"events";s:6:"Events";s:8:"triggers";s:8:"Triggers";s:8:"tracking";s:8:"Tracking";s:8:"designer";s:8:"Designer";s:15:"central_columns";s:15:"Central columns";}s:17:"menu-levels-table";a:11:{s:6:"browse";s:6:"Browse";s:9:"structure";s:9:"Structure";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"Search";s:6:"insert";s:6:"Insert";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:10:"privileges";s:10:"Privileges";s:9:"operation";s:10:"Operations";s:8:"tracking";s:8:"Tracking";s:8:"triggers";s:8:"Triggers";}s:19:"profiling_supported";b:1;}s:13:"version_check";a:2:{s:8:"response";s:411:"{
+    "version": "5.2.1",
+    "date": "2023-02-08",
+    "releases": [
+        {
+            "version": "5.2.1",
+            "date": "2023-02-08",
+            "php_versions": ">=7.2,<8.4",
+            "mysql_versions": ">=5.5"
+        },
+        {
+            "version": "4.9.11",
+            "date": "2023-02-08",
+            "php_versions": ">=5.5,<8.0",
+            "mysql_versions": ">=5.5"
+        }
+    ]
+}";s:9:"timestamp";i:1735491222;}}flashMessages|a:0:{}git_location|N;is_git_revision|b:0;ConfigFile1|a:2:{s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}Import_message|a:2:{s:7:"message";s:380:"<div class="alert alert-danger" role="alert"><h1>Error</h1><p>
+    <strong>MySQL said: </strong><a href="./url.php?url=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Fserver-error-reference.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help"></a>
+</p>
+<code>Cannot connect: invalid settings.</code><br></div>";s:11:"go_back_url";s:66:"index.php?route=/table/structure&db=bfdb&table=userbilling_details";}is_multi_query|b:0;sql_history|a:25:{i:0;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}i:1;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}i:2;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:3;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:4;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:5;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}i:6;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:7;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:34:"select * from userbilling_details;";}i:8;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:224:"UPDATE userbilling_details sd
+    SET sd.OrderDetails_id = (
+        SELECT GROUP_CONCAT(sp.prd_id SEPARATOR ', ')
+        FROM shippingprod_details sp
+        WHERE sp.prd_usrbilldetId = 11
+    )
+    WHERE sd.id = 11;";}i:9;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:10;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:224:"UPDATE userbilling_details sd
+    SET sd.OrderDetails_id = (
+        SELECT GROUP_CONCAT(sp.prd_id SEPARATOR ', ')
+        FROM shippingprod_details sp
+        WHERE sp.prd_usrbilldetId = 11
+    )
+    WHERE sd.id = 11;";}i:11;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:124:"SELECT GROUP_CONCAT(sp.prd_id SEPARATOR ', ')
+        FROM shippingprod_details sp
+        WHERE sp.prd_usrbilldetId = 11;";}i:12;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:13;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:14;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:16:"category_details";s:8:"sqlquery";s:32:"SELECT * FROM `category_details`";}i:15;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}i:16;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}i:17;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}i:18;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:19;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}i:20;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:21;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}i:22;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:23;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:19:"userbilling_details";s:8:"sqlquery";s:35:"SELECT * FROM `userbilling_details`";}i:24;a:3:{s:2:"db";s:4:"bfdb";s:5:"table";s:20:"shippingprod_details";s:8:"sqlquery";s:36:"SELECT * FROM `shippingprod_details`";}}userconfig|a:2:{s:2:"db";a:1:{s:12:"Console/Mode";s:8:"collapse";}s:2:"ts";i:1738515272;}errors|a:0:{}

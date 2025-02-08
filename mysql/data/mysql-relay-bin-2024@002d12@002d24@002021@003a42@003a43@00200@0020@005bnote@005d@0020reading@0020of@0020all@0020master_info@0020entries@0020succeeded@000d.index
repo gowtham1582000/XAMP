@@ -1,0 +1,354 @@
+Note] Reading-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000002
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000003
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000004
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000005
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000006
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000007
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000008
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000009
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000010
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000011
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000012
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000013
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000014
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000015
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000016
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000017
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000018
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000019
+2025-02-02 22:23:24 7 [Note] Initialized Master_info from 'master-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.info'
+2025-02-02 22:23:24 7 [Note] Added new Master_info '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded' to hash table
+2025-02-02 22:23:24 8 [Note] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2025-02-02 22:23:24 7 [Note] Started replication for '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded'
+2025-02-02 22:23:24 9 [Note] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001' position: 4
+2025-02-02 22:23:24 8 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2025-02-02 22:23:24 7 [Note] Reading Master_info: 'master-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'  Relay_info:'relay-log-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'
+2025-02-02 22:23:24 8 [Note] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': Slave I/O thread killed while connecting to master
+2025-02-02 22:23:2 of all Master_info entries succeeded': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2025-02-02 22:23:24 8 [Note] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': master was :3306
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 7 [Note] Initialized Master_info from 'master-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.info'
+2025-02-02 22:23:24 7 [Note] Added new Master_info '2024-12-24 21:42:43 0 [Note] Added new Master_info '' to hash table' to hash table
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 10 [Note] Master '2024-12-24 21:42:43 0 [Note] Added new Master_info '' to hash table': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2025-02-02 22:23:24 7 [Note] Started replication for '2024-12-24 21:42:43 0 [Note] Added new Master_info '' to hash table'
+2025-02-02 22:23:24 11 [Note] Master '2024-12-24 21:42:43 0 [Note] Added new Master_info '' to hash table': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020added@0020new@0020master_info@0020@0027@0027@0020to@0020hash@0020table@000d.000001' position: 4
+2025-02-02 22:23:24 10 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Added new Master_info '' to hash table': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2025-02-02 22:23:24 7 [Note] Reading Master_info: 'master-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020e@003a@005cxamp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'  Relay_info:'relay-log-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020e@003a@005cxamp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 10 [Note] Master '2024-12-24 21:42:43 0 [Note] Added new Master_info '' to hash table': Slave I/O thread killed while connecting to master
+2025-02-02 22:23:24 10 [Note] Master '2024-12-24 21:42:43 0 [Note] Added new Master_info '' to hash table': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2025-02-02 22:23:24 10 [Note] Master '2024-12-24 21:42:43 0 [Note] Added new Master_info '' to hash table': master was :3306
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 9 [ERROR] Master '2024-12-24 21:42:43 0 [Note] Reading of all Master_info entries succeeded': MYSQL_BIN_LOG::purge_logs was called with file .\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001 not listed in the index.
+2025-02-02 22:23:24 7 [Note] Initialized Master_info from 'master-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020e@003a@005cxamp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.info'
+2025-02-02 22:23:24 7 [Note] Added new Master_info '2024-12-24 21:42:43 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.' to hash table
+2025-02-02 22:23:24 12 [Note] Master '2024-12-24 21:42:43 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2025-02-02 22:23:24 7 [Note] Started replication for '2024-12-24 21:42:43 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.'
+2025-02-02 22:23:24 13 [Note] Master '2024-12-24 21:42:43 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020e@003a@005cxamp@005cmysql@005cbin@005cmysqld@002eexe@003a@0020ready@0020for@0020connections@002e@000d.000001' position: 4
+2025-02-02 22:23:24 12 [ERROR] Master '2024-12-24 21:42:43 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2025-02-02 22:23:24 7 [Note] Reading Master_info: 'master-version@003a@0020@002710@002e4@002e32@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'  Relay_info:'relay-log-version@003a@0020@002710@002e4@002e32@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'
+2025-02-02 22:23:24 12 [Note] Master '2024-12-24 21:42:43 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread killed while connecting to master
+2025-02-02 22:23:24 12 [Note] Master '2024-12-24 21:42:43 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2025-02-02 22:23:24 12 [Note] Master '2024-12-24 21:42:43 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.': master was :3306
+2025-02-02 22:23:24 7 [Note] Initialized Master_info from 'master-version@003a@0020@002710@002e4@002e32@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.info'
+2025-02-02 22:23:24 7 [Note] Added new Master_info 'Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution' to hash table
+2025-02-02 22:23:24 14 [Note] Master 'Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread: Start asynchronous replication to master '@:3306' in log '' at position 4
+2025-02-02 22:23:24 7 [Note] Started replication for 'Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution'
+2025-02-02 22:23:24 15 [Note] Master 'Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave SQL thread initialized, starting replication in log 'FIRST' at position 0, relay log '.\mysql-relay-bin-version@003a@0020@002710@002e4@002e32@002dmariadb@0027@0020@0020socket@003a@0020@0027@0027@0020@0020port@003a@00203306@0020@0020mariadb@002eorg@0020binary@0020distribution@000d.000001' position: 4
+2025-02-02 22:23:24 14 [ERROR] Master 'Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O: Fatal error: Invalid (empty) username when attempting to connect to the master server. Connection attempt terminated. Internal MariaDB error code: 1593
+2025-02-02 22:23:24 0 [Note] Reading of all Master_info entries succeeded
+2025-02-02 22:23:24 14 [Note] Master 'Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread killed while connecting to master
+2025-02-02 22:23:24 0 [Note] Added new Master_info '' to hash table
+2025-02-02 22:23:24 14 [Note] Master 'Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': Slave I/O thread exiting, read up to log 'FIRST', position 4
+2025-02-02 22:23:24 0 [Note] e:\xamp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2025-02-02 22:23:24 14 [Note] Master 'Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution': master was :3306
+2025-02-02 22:23:33 17 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:23:33 17 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:23:37 24 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:23:37 24 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:23:38 26 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:23:38 26 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:23:38 28 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:23:38 28 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:23:38 30 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:23:38 30 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:23:38 32 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:23:38 32 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:09 37 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:09 37 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:10 39 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:10 39 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:14 41 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:14 41 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:16 43 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:16 43 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:17 45 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:17 45 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:21 47 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:21 47 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:21 49 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:21 49 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:22 51 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:22 51 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:22 53 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:22 53 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:22 55 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:22 55 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:22 57 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:22 57 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:31 59 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:31 59 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:31 61 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:31 61 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:31 63 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:31 63 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:32 65 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:32 65 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:32 67 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:32 67 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:32 69 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:32 69 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:40 71 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:40 71 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:24:43 73 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:24:43 73 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:25:05 77 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:25:05 77 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:25:21 87 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:25:21 87 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:25:21 89 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:25:21 89 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:25:42 92 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:25:42 92 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:25:42 94 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:25:42 94 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:25:47 96 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:25:47 96 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:25:48 98 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:25:48 98 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 22:50:01 100 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 22:50:01 100 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 23:12:35 102 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 23:12:35 102 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-02 23:34:46 104 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-02 23:34:46 104 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-03 20:09:06 106 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-03 20:09:06 106 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-03 20:29:35 108 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-03 20:29:35 108 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-03 20:50:06 110 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-03 20:50:06 110 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-03 21:09:54 112 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-03 21:09:54 112 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-03 21:29:23 114 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-03 21:29:23 114 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-03 21:48:33 116 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-03 21:48:33 116 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-03 22:07:23 118 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-03 22:07:23 118 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-04 20:57:51 120 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-04 20:57:51 120 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-04 21:16:22 122 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-04 21:16:22 122 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-04 21:34:27 124 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-04 21:34:27 124 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-04 21:52:14 126 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-04 21:52:14 126 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-04 22:09:44 128 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-04 22:09:44 128 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-04 22:26:54 130 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-04 22:26:54 130 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-04 22:43:48 132 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-04 22:43:48 132 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 20:34:37 134 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 20:34:37 134 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 20:51:01 136 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 20:51:01 136 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 21:07:27 138 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 21:07:27 138 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 21:23:14 140 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 21:23:14 140 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 21:38:46 142 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 21:38:46 142 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 21:54:02 144 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 21:54:02 144 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 22:09:03 146 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 22:09:03 146 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 22:23:54 148 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 22:23:54 148 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 22:46:45 150 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 22:46:45 150 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 23:09:13 152 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 23:09:13 152 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 23:31:19 154 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 23:31:19 154 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-05 23:53:03 156 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-05 23:53:03 156 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 10:06:38 158 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 10:06:38 158 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 10:27:40 160 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 10:27:40 160 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 10:48:39 162 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 10:48:39 162 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 11:07:56 164 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 11:07:56 164 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 11:26:54 166 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 11:26:54 166 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 17:11:46 168 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 17:11:46 168 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 17:30:20 170 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 17:30:20 170 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 17:48:33 172 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 17:48:33 172 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 18:06:27 174 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 18:06:27 174 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 18:24:03 176 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 18:24:03 176 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 18:41:22 178 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 18:41:22 178 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 18:58:24 180 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 18:58:24 180 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 22:02:39 182 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 22:02:39 182 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 22:19:17 184 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 22:19:17 184 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 22:35:35 186 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 22:35:35 186 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 22:51:58 188 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 22:51:58 188 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 23:07:47 190 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 23:07:47 190 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 23:23:21 192 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 23:23:21 192 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-06 23:38:45 194 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-06 23:38:45 194 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07  8:23:03 196 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07  8:23:03 196 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07  8:38:04 198 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07  8:38:04 198 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07  8:52:50 200 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07  8:52:50 200 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07  9:07:21 202 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07  9:07:21 202 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07  9:21:37 204 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07  9:21:37 204 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07  9:35:39 206 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07  9:35:39 206 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07  9:49:27 208 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07  9:49:27 208 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 10:03:01 210 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 10:03:01 210 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 10:16:22 212 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 10:16:22 212 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 10:29:29 214 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 10:29:29 214 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 10:42:23 216 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 10:42:23 216 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 10:55:13 218 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 10:55:13 218 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 11:07:42 220 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 11:07:42 220 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 11:19:58 222 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 11:19:58 222 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 11:32:02 224 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 11:32:02 224 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 11:43:54 226 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 11:43:54 226 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 11:55:34 228 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 11:55:34 228 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 12:07:02 230 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 12:07:02 230 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 12:18:19 232 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 12:18:19 232 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 12:28:24 234 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 12:28:24 234 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 12:38:19 236 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 12:38:19 236 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 12:48:04 238 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 12:48:04 238 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 12:57:40 240 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 12:57:40 240 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 16:46:38 242 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 16:46:38 242 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 16:56:05 244 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 16:56:05 244 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 17:05:15 246 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 17:05:15 246 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 17:14:16 248 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 17:14:16 248 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 17:23:07 250 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 17:23:07 250 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 17:31:50 252 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 17:31:50 252 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 17:40:24 254 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 17:40:24 254 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 17:48:49 256 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 17:48:49 256 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 17:57:06 258 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 17:57:06 258 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 18:05:15 260 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 18:05:15 260 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 18:13:16 262 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 18:13:16 262 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 18:21:08 264 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 18:21:08 264 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 21:40:41 266 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 21:40:41 266 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 21:48:20 268 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 21:48:20 268 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 21:55:51 270 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 21:55:51 270 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 22:03:15 272 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 22:03:15 272 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 22:10:32 274 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 22:10:32 274 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 22:17:41 276 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 22:17:41 276 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 22:24:43 278 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 22:24:43 278 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+2025-02-07 22:40:03 280 [ERROR] Got error 126 when reading table '.\mysql\global_priv'
+2025-02-07 22:40:03 280 [ERROR] mysqld.exe: Index for table 'global_priv' is corrupt; try to repair it
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000020
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000021
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000022
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000023
+2025-02-08 12:14:03 7 [ERROR] Failed to open the relay log '.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000001' (relay_log_pos 4)
+2025-02-08 12:14:03 7 [ERROR] Could not find target log during relay log initialization
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000024
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000025
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000026
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000027
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000028
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000029
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000030
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000031
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000032
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000033
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000034
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000035
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000036
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000037
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000038
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000039
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000040
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000041
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000042
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000043
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000044
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000045
+.\mysql-relay-bin-2024@002d12@002d24@002021@003a42@003a43@00200@0020@005bnote@005d@0020reading@0020of@0020all@0020master_info@0020entries@0020succeeded@000d.000046
